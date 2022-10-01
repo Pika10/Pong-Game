@@ -3,7 +3,7 @@ A pong game made without a game engine.
 
 ## Description
 
-A classic pong game where you try to prevent the ball from dropping by using the paddle.
+Classic pong game where you try to prevent the ball from dropping by using the paddle.
 
 #### Power-ups
 
