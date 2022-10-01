@@ -12,10 +12,10 @@ This is a classic pong game which you try to prevent the ball from dropping unde
 - UFO: Changes power-ups positions.
 - Gravity: Changes the direction of gravity and position of the paddle.
 
-![](https://github.com/Pong-Game/Gameplay.gif)
+![](https://github.com/Pika10/Pong-Game/Gameplay.gif)
 
 #### AI/Cheat
 AI/Cheat auto plays the game.
 
-![](https://github.com/Pong-Game/Cheat.gif)
+![](https://github.com/Pika10/Pong-Game/Cheat.gif)
 
