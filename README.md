@@ -3,12 +3,12 @@ A pong game made without a game engine.
 
 ## Description
 
-This is a classic pong game which you try to prevent the ball from dropping under the paddle by using the paddle.
+A classic pong game where you try to prevent the ball from dropping by using the paddle.
 
 #### Power-ups
 
 - Star: Adds 1000 point.
-- Meteorite: Speeds up the ball for x seconds.
+- Meteorite: Speeds up the ball for 5 seconds.
 - UFO: Changes power-ups positions.
 - Gravity: Changes the direction of gravity and position of the paddle.
 
