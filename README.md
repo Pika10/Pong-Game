@@ -4,6 +4,7 @@ A pong game made without a game engine.
 ## Description
 
 Classic pong game where you try to prevent the ball from dropping by using the paddle.
+- Made for a course project in university.
 
 #### Power-ups
 
