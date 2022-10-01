@@ -17,5 +17,5 @@ This is a classic pong game which you try to prevent the ball from dropping unde
 #### AI/Cheat
 AI/Cheat auto plays the game.
 
-![](https://github.com/Pika10/Pong-Game/Cheat.gif)
+![](https://github.com/Pika10/Pong-Game/blob/main/Cheat.gif) 
 
